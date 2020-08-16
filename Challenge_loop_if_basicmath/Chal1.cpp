@@ -42,7 +42,7 @@ int main()
 	}
 	
 	SD = sqrt(SUM / (n-1));
-	printf("\n%.2lf", SD);
+	printf("\nSD : %.2lf\n", SD);
 	
 	return 0;
 }
